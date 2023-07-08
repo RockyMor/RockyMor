@@ -1,9 +1,9 @@
-# Rocky - Junior Frontend Developer
+# Rocky - 
 
 
 ## Introduction
 
-Hello, I'm Rocky, a Junior Frontend Developer currently pursuing my B.Tech in Computer Science and Engineering. I have a strong passion for web development and enjoy creating user-friendly and visually appealing websites. With proficiency in HTML, CSS, JavaScript, and Git, I strive to enhance my skills and contribute to meaningful projects.
+Hello, I'm Rocky, currently pursuing my B.Tech in Computer Science and Engineering. I have a strong passion for web development and enjoy creating user-friendly and visually appealing websites. With proficiency in HTML, CSS, JavaScript, and Git, I strive to enhance my skills and contribute to meaningful projects.
 
 ## Skills
 
